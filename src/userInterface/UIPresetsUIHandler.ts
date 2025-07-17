@@ -3,8 +3,6 @@ import { NavItems } from 'types/UI/instances/NavItems';
 import INavItems from 't/UI/instances/NavItems';
 import { UIPresetsScript } from 'utils/commonPaths';
 import type { UIPresetsBG } from 'models/UIPresetsBG.type';
-import { Button } from '@rbxts/uipresets/out/components/ContextMenu';
-import Navbar from '@rbxts/uipresets/out/components/Navbar';
 
 type NavbarBG = Frame & {
 	Navbar: ScrollingFrame & {

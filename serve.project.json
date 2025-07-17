@@ -1,5 +1,5 @@
 {
-	"name": "roblox-ts-plugin-serve",
+	"name": "ui-presets-plugin-serve",
 	"globIgnorePaths": [
 		"**/package.json",
 		"**/tsconfig.json"

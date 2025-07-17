@@ -1,5 +1,5 @@
 {
-	"name": "roblox-ts-plugin",
+	"name": "ui-presets-plugin",
 	"globIgnorePaths": [
 		"**/package.json",
 		"**/tsconfig.json",
